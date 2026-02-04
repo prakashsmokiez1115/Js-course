@@ -44,6 +44,17 @@ function printUserName(uName = "Keshav", uAge = 25) {
 // 3️⃣ Function with Return Value
 // ===================================================
 
+
+// 🧠 Simple rule to remember forever:
+
+// {} → you MUST use return
+// No {} → value is returned automatically (implicit return)
+
+// That’s it. Nothing more.
+
+
+
+
 function findRectArea(l, b) {
 
     let condition = false;
@@ -57,6 +68,9 @@ function findRectArea(l, b) {
 
 // let newVal = findRectArea(20, 10);
 // console.log(findRectArea(100, 50), newVal);
+
+
+
 
 
 
